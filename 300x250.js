@@ -1,8 +1,8 @@
 atOptions = {
-		'key' : 'c8f61acb585435b0d935785e6f7b658c',
+		'key' : '20c7890069d8e41380a2be72f70c6f11',
 		'format' : 'iframe',
 		'height' : 250,
 		'width' : 300,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.effectivecreativeformat.com/c8f61acb585435b0d935785e6f7b658c/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.profitabledisplaynetwork.com/20c7890069d8e41380a2be72f70c6f11/invoke.js"></scr' + 'ipt>');
